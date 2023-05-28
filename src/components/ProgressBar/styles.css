@@ -1,0 +1,19 @@
+.progress {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  min-width: 180px;
+}
+
+.time-wrapper {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  padding-top: 1px;
+}
+
+.time {
+  color: #333;
+  font-size: 12px;
+}
